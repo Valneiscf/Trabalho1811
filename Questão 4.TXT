@@ -1,0 +1,27 @@
+As profissões relacionadas a Infórmatica de nossos amigos são as de :
+Analista de Sistemas:
+Oferece a solução para um problema através do uso de sistemas de informação.
+Técnico em Infórmatica:
+Profissional que está apto a realizar configurações de sistemas informáticos, 
+a instalar equipamentos e a verificar as causas de falhas na programação de computadores.
+Técnico em Manutenção e Suporte a Informática.
+Engenheiro de Software:
+Conhece amplamente as linguagens de programação de baixo nível (código de máquina) 
+e cria softwares aplicativos de controle e genéricos.
+Cientista da Computação:
+Responsável por desenvolver e manter boa parte da tecnologia a qual temos acesso.
+
+Mas as profissões relacionadas a essa área da tecnologia não acabam por ai.
+Pois ainda temos profissionais como:
+Digitador:
+Pessoa treinada em digitação de dados, num determinado sistema, com rapidez em datilografia.
+Programador:
+Pessoa habilitada em programação com uma ou mais linguagens de programação.
+Operador de Microcomputador, de Computador ou Terminal:
+Pessoa treinada para operar determinado equipamento de processamento de dados.
+Especialista em Recuperação de Desastres:
+Pessoa capaz de colocar tudo de volta no ar, o mais rápido possível, após um ataque de vírus ou de crackers a um site.
+ETC.
+
+É importante informar que esse ramo tem uma enorme variedade de profissões e profissionais.
+(Valnei)
